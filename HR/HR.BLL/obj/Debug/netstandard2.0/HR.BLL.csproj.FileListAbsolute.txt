@@ -1,0 +1,5 @@
+c:\users\home\source\repos\HR\HR.BLL\bin\Debug\netstandard2.0\HR.DAL.dll
+c:\users\home\source\repos\HR\HR.BLL\obj\Debug\netstandard2.0\HR.BLL.csprojResolveAssemblyReference.cache
+c:\users\home\source\repos\HR\HR.BLL\obj\Debug\netstandard2.0\HR.BLL.csproj.CoreCompileInputs.cache
+c:\users\home\source\repos\HR\HR.BLL\obj\Debug\netstandard2.0\HR.BLL.AssemblyInfoInputs.cache
+c:\users\home\source\repos\HR\HR.BLL\obj\Debug\netstandard2.0\HR.BLL.AssemblyInfo.cs
